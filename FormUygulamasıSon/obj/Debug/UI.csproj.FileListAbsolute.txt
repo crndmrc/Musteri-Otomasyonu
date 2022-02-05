@@ -1,0 +1,37 @@
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\FormUygulamasıSon\bin\Debug\FormUygulamasıSon.exe.config
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\FormUygulamasıSon\bin\Debug\FormUygulamasıSon.exe
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\FormUygulamasıSon\bin\Debug\FormUygulamasıSon.pdb
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\FormUygulamasıSon\bin\Debug\DLL.exe
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\FormUygulamasıSon\bin\Debug\DLL.pdb
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\FormUygulamasıSon\bin\Debug\DLL.exe.config
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\FormUygulamasıSon.Properties.Resources.resources
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\UI.csproj.CopyComplete
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\FormUygulamasıSon.exe
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\FormUygulamasıSon.pdb
+C:\Users\ceren\Desktop\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\ceren\Desktop\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ceren\Desktop\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\FormUygulamasıSon.frmMUSTERI.resources
+C:\Users\ceren\Desktop\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\FormUygulamasıSon.Properties.Resources.resources
+C:\Users\ceren\Desktop\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\ceren\Desktop\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\ceren\Desktop\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\FormUygulamasıSon.exe
+C:\Users\ceren\Desktop\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\FormUygulamasıSon.pdb
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\FormUygulamasıSon\bin\Debug\FormUygulamasıSon.exe.config
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\FormUygulamasıSon\bin\Debug\FormUygulamasıSon.exe
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\FormUygulamasıSon\bin\Debug\FormUygulamasıSon.pdb
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\FormUygulamasıSon\bin\Debug\DLL.exe
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\FormUygulamasıSon\bin\Debug\DLL.pdb
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\FormUygulamasıSon\bin\Debug\DLL.exe.config
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\FormUygulamasıSon.frmMUSTERI.resources
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\FormUygulamasıSon.Properties.Resources.resources
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\UI.csproj.CopyComplete
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\FormUygulamasıSon.exe
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\FormUygulamasıSon\obj\Debug\FormUygulamasıSon.pdb

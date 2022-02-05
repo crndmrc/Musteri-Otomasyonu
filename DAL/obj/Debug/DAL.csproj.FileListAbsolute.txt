@@ -1,0 +1,15 @@
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\DAL\bin\Debug\DAL.exe.config
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\DAL\bin\Debug\DAL.exe
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\DAL\bin\Debug\DAL.pdb
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\DAL\obj\Debug\DAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\DAL\obj\Debug\DAL.exe
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\DAL\obj\Debug\DAL.pdb
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\DAL\bin\Debug\DAL.exe.config
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\DAL\bin\Debug\DAL.exe
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\DAL\bin\Debug\DAL.pdb
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\DAL\obj\Debug\DAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\DAL\obj\Debug\DAL.exe
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\DAL\obj\Debug\DAL.pdb

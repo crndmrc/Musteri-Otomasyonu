@@ -1,0 +1,21 @@
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\DLL\bin\Debug\DLL.exe.config
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\DLL\bin\Debug\DLL.exe
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\DLL\bin\Debug\DLL.pdb
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\DLL\obj\Debug\DLL.csproj.SuggestedBindingRedirects.cache
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\DLL\obj\Debug\DLL.exe
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\FormUygulamasıSon\DLL\obj\Debug\DLL.pdb
+C:\Users\ceren\Desktop\FormUygulamasıSon\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\Users\ceren\Desktop\FormUygulamasıSon\DLL\obj\Debug\DLL.csproj.SuggestedBindingRedirects.cache
+C:\Users\ceren\Desktop\FormUygulamasıSon\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\ceren\Desktop\FormUygulamasıSon\DLL\obj\Debug\DLL.exe
+C:\Users\ceren\Desktop\FormUygulamasıSon\DLL\obj\Debug\DLL.pdb
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\DLL\bin\Debug\DLL.exe.config
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\DLL\bin\Debug\DLL.exe
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\DLL\bin\Debug\DLL.pdb
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\DLL\obj\Debug\DLL.csproj.SuggestedBindingRedirects.cache
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\DLL\obj\Debug\DLL.exe
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\DLL\obj\Debug\DLL.pdb

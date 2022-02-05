@@ -1,0 +1,7 @@
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\DLL\bin\Debug\DLL.exe.config
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\DLL\bin\Debug\DLL.exe
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\DLL\bin\Debug\DLL.pdb
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\DLL\obj\Debug\BLL.csproj.SuggestedBindingRedirects.cache
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\DLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\DLL\obj\Debug\DLL.exe
+C:\Users\ISKUR\Desktop\FormUygulamasıSon\DLL\obj\Debug\DLL.pdb

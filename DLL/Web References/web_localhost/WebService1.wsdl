@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:tns="http://tempuri.org/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="r_Musteri">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="_sql" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="r_MusteriResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="r_MusteriResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="c_Musteri">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="_sql" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="adi" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="soyadi" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="TCNo" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="dogumTarihi" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="profilResimYolu" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="c_MusteriResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="c_MusteriResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="u_Musteri">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="_sql" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="id" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="adi" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="soyadi" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="TCNo" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="dogumTarihi" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="profilResimYolu" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="u_MusteriResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="u_MusteriResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="d_Musteri">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="_sql" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="id" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="d_MusteriResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="d_MusteriResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="r_MusteriSoapIn">
+    <wsdl:part name="parameters" element="tns:r_Musteri" />
+  </wsdl:message>
+  <wsdl:message name="r_MusteriSoapOut">
+    <wsdl:part name="parameters" element="tns:r_MusteriResponse" />
+  </wsdl:message>
+  <wsdl:message name="c_MusteriSoapIn">
+    <wsdl:part name="parameters" element="tns:c_Musteri" />
+  </wsdl:message>
+  <wsdl:message name="c_MusteriSoapOut">
+    <wsdl:part name="parameters" element="tns:c_MusteriResponse" />
+  </wsdl:message>
+  <wsdl:message name="u_MusteriSoapIn">
+    <wsdl:part name="parameters" element="tns:u_Musteri" />
+  </wsdl:message>
+  <wsdl:message name="u_MusteriSoapOut">
+    <wsdl:part name="parameters" element="tns:u_MusteriResponse" />
+  </wsdl:message>
+  <wsdl:message name="d_MusteriSoapIn">
+    <wsdl:part name="parameters" element="tns:d_Musteri" />
+  </wsdl:message>
+  <wsdl:message name="d_MusteriSoapOut">
+    <wsdl:part name="parameters" element="tns:d_MusteriResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WebService1Soap">
+    <wsdl:operation name="r_Musteri">
+      <wsdl:input message="tns:r_MusteriSoapIn" />
+      <wsdl:output message="tns:r_MusteriSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="c_Musteri">
+      <wsdl:input message="tns:c_MusteriSoapIn" />
+      <wsdl:output message="tns:c_MusteriSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="u_Musteri">
+      <wsdl:input message="tns:u_MusteriSoapIn" />
+      <wsdl:output message="tns:u_MusteriSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="d_Musteri">
+      <wsdl:input message="tns:d_MusteriSoapIn" />
+      <wsdl:output message="tns:d_MusteriSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WebService1Soap" type="tns:WebService1Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="r_Musteri">
+      <soap:operation soapAction="http://tempuri.org/r_Musteri" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="c_Musteri">
+      <soap:operation soapAction="http://tempuri.org/c_Musteri" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="u_Musteri">
+      <soap:operation soapAction="http://tempuri.org/u_Musteri" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="d_Musteri">
+      <soap:operation soapAction="http://tempuri.org/d_Musteri" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WebService1Soap12" type="tns:WebService1Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="r_Musteri">
+      <soap12:operation soapAction="http://tempuri.org/r_Musteri" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="c_Musteri">
+      <soap12:operation soapAction="http://tempuri.org/c_Musteri" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="u_Musteri">
+      <soap12:operation soapAction="http://tempuri.org/u_Musteri" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="d_Musteri">
+      <soap12:operation soapAction="http://tempuri.org/d_Musteri" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WebService1">
+    <wsdl:port name="WebService1Soap" binding="tns:WebService1Soap">
+      <soap:address location="http://localhost:55525/WebService1.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WebService1Soap12" binding="tns:WebService1Soap12">
+      <soap12:address location="http://localhost:55525/WebService1.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
